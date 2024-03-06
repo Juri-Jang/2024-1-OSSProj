@@ -1,1 +1,1 @@
-# OSSPrac
+# OSSProj
